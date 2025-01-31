@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("comp367Brown-lab1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e607d60ddcc9ed9793e8b4fe2cadd419dba04144")]
 [assembly: System.Reflection.AssemblyProductAttribute("comp367Brown-lab1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("comp367Brown-lab1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
